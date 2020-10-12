@@ -1,0 +1,3 @@
+For this game, I have added a jump/double jump option and as you collect pick-ups, the color of the ball will change. The goal of the game is to collect all 5 pick-up objects.
+
+The playable file is called MovementTest.
